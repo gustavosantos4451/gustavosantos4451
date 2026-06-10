@@ -1,4 +1,4 @@
-# Olá, eu sou Gustavo Santos 👋
+# Olá, me chamo Gustavo Santos 👋
 
 Estudante de Ciência da Computação na UNINTER.
 
